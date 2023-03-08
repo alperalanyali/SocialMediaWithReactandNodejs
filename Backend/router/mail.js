@@ -10,7 +10,7 @@ const transporter = nodemailer.createTransport({
     html: true,
     auth:{
         user: "apikey",
-        pass:"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",
+      
     },
     tls:{
         ciphers: "SSLv3",
